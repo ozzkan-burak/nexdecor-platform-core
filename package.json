@@ -11,5 +11,5 @@
     "turbo": "latest",
     "prettier": "latest"
   },
-  "packageManager": "pnpm@9.x.x"
+  "packageManager": "pnpm@10.x.x"
 }
